@@ -8,8 +8,8 @@ subscribing.
 
 ## Installing
 
-See <https://mosquitto.org/download/> for details on installing binaries for
-various platforms.
+1. Install the appropriate installation file by confirming the operating system and bits support of your computer <https://mosquitto.org/download/>.
+-In my case, `mosquitto-2.0.11-install-windows-x64.exe` works well on my WIN10 PC (64bits))
 
 ## Quick start
 
