@@ -6,10 +6,11 @@ and 3.1 of the MQTT protocol. It also includes a C and C++ client library, and
 the `mosquitto_pub` and `mosquitto_sub` utilities for publishing and
 subscribing.
 
-## Installing
+## Download and Installing
 
-1. Install the appropriate installation file by confirming the operating system and bits support of your computer <https://mosquitto.org/download/>.
+1. Download the appropriate installation file by confirming the operating system and bits support of your computer <https://mosquitto.org/download/>.
 -In my case, `mosquitto-2.0.11-install-windows-x64.exe` works well on my WIN10 PC (64bits))
+2. Start your installation process, the program directory will appear in: (x86)`C:\Program Files (x86)\Mosquitto` or (x64)`C:\Program Files\Mosquitto`
 
 ## Quick start
 
